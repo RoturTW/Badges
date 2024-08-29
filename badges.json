@@ -1,5 +1,5 @@
 {
-  "rotur":"c #3f2f3c w 20 dot 0 0 c #111 w 17 dot 0 0 c #fff w 1 ellipse 0 0 7 0.45 100 ellipse 0 0 7 0.45 160 ellipse 0 0 7 0.45 220",
+  "rotur":"c #3f2f3c w 22 dot 0 0 c #111 w 19 dot 0 0 c #fff w 1 ellipse 0 0 8 0.45 100 ellipse 0 0 8 0.45 160 ellipse 0 0 8 0.45 220",
   "developer":"w 20 dot 0 0 c #367 w 6 square 0 0 7 7 w 20 dot 0 0 c #000 w 3 line 3 4.5 7 0 cont 3 -4.5 line -3 4.5 -7 0 cont -3 -4.5",
   "rich":"c #DAF0F2 w 3 line 3 5 -3 5 cont -6 2 cont 0 -5 cont 6 2 cont 3 5 w 9.5 dot 0 0",
   "collector":"c #1e334f w 20 dot 0 0 c #405167 w 17 dot 0 0 c #9ba7b7 w 1 ellipse 0 0 7 0.45 100 ellipse 0 0 7 0.45 160 ellipse 0 0 7 0.45 220",
