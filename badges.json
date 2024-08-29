@@ -5,5 +5,6 @@
   "collector":"c #1e334f w 20 dot 0 0 c #405167 w 17 dot 0 0 c #9ba7b7 w 1 ellipse 0 0 7 0.45 100 ellipse 0 0 7 0.45 160 ellipse 0 0 7 0.45 220",
   "discord":"c #5865f2 w 20 dot 0 0 c #fff w 3 line 3 2 5 -2 cont 3 -3 cont 2 -2 cont -2 -2 cont -3 -3 cont -5 -2 cont -3 2.5 cont -2 2.5 cont -1 1.7 cont 1 1.7 cont 2 2.5 cont 3 2.5 cont 5 -2 w 4.5 line -2 0 2 0 c #5865f2 w 2.5 dot 2 -1 dot -2 -1",
   "friendly":"w 20 c #ffcc4d dot 0 0 c #ff7892 w 5 dot 5 0 dot -5 0 c #000 w 2.5 cutcircle 0 -1 4 18 60 cutcircle 4 2 2 0 50 cutcircle -4 2 2 0 50",
+  "creator":"c #336 w 9 square 0 0 5 5 w 10 dot 0 0 c #fff w 2 line 0 5 0 -5 line -5 0 5 0",
   "originOS":"w 8 c #444 square 0 0 6 6 w 6 c #111 square 0 0 5 5 dot 0 0 c #ddd w 1.3 cutcircle 0 0 6.5 4.5 150 cutcircle 0 0 3.5 5 150 line -1 -2 -4.5 -5.5"
 }
