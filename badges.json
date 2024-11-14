@@ -30,5 +30,9 @@
   "originOS": {
     "icon": "w 8 c #444 square 0 0 6 6 w 6 c #111 square 0 0 5 5 dot 0 0 c #ddd w 1.3 cutcircle 0 0 6.5 4.5 150 cutcircle 0 0 3.5 5 150 line -1 -2 -4.5 -5.5",
     "description": "This Account Was Created On OriginOS"
+  },
+  "Constellinux":{
+    "icon":"cutcircle 0 0 15 22.5 70 cutcircle 0 0 5 22.5 70 line 3 3 10 10 cutcircle 0 0 15 4.5 25",
+    "description":"This Account Was Created On Constellinux / With The Constellinyx Project."
   }
 }
